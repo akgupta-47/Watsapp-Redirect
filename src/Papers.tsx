@@ -68,8 +68,7 @@ export default function SimplePaper() {
               <Typography variant="h6">
                 Watsapp Redirect is a service that uses the <b>wa.me</b> route
                 provided by watsapp<br></br>It adds the provided number and
-                country code in the correct format and provides it back to user
-                and redirects tot the desired page.
+                country code in the correct format and allows you to chat without saving the phone number.
               </Typography>
             </Box>
             <Box sx={{ px: '1.2rem', pt: '2rem' }}>
